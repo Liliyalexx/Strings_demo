@@ -14,7 +14,7 @@ public class Demo1 {
 		
 		System.out.println("s1.equals(s2) " + s1.equals(s2));
 		System.out.println("s1.equals(s2) " + s1.equals(s3));
-		System.out.print("s1.equals(s4) " + s1.equals(s4));
+		System.out.println("s1.equals(s4) " + s1.equals(s4));
 		
 		String s6 = "Hello there, how are you?";
 		String ar1[]=s6.split(" ");
